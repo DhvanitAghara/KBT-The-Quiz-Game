@@ -1,0 +1,59 @@
+1)Sometimes computers and cash registers in a foodmart are connected to a UPS system. What does UPS mean?
+A)United Parcel Service
+B)Uniform Product Support
+C)Under Paneling Storage
+D)Uninterruptable Power Supply
+
+ 2)What does EPROM stand for?
+A)Electric Programmable Read Only Memory
+B)Erasable Programmable Read Only Memory
+C)Evaluable Philotic Random Optic Memory
+D)Every Person Requires One Mind
+
+ 3)What company developed RDRAM?
+A)Rambus
+B)Rare
+c)RealNetwork
+D)RedHAt
+
+ 4)MDI is a type of what kind of port?
+A)USB
+B)Ethernet
+C)Thunderbolt
+D)HDMI
+
+ 5)What does the p stand for in 1080p resolution?
+A)Processor
+B)Progressive
+C)Pixels
+D)Permanent
+
+ 6)Which of the following is not a server-side scripting language?
+A)PHP
+B)JSP
+C)ISP
+D)ASP
+
+ 7)Which process can restore a specific software configuration to new hardware?
+A)Disk reformat
+B)OS restore
+C)Bare metal restore
+D)Software update
+
+ 8)What company developed SLI(Scalable Link Interface) technology?
+A)AMD
+B)Intel
+C)Nvidia
+D)Micron
+
+ 9)What verb refers to automatically loading and executing commands?
+A)Bootstrapping
+B)Synchronizing
+C)Compiling
+D)Formatting
+
+ 10)What term may be used as a synonym for a software patch?
+A)Honeypot
+B)Hotfix
+C)Halftone
+D)Hyperlink
